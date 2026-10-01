@@ -78,12 +78,7 @@ Computer-Service-Manager/
 The application uses SQLite for local data storage. Database files and backups should not normally be committed to GitHub.
 
 ## Screenshots
-
-Add screenshots here:
-
-```
-[docs/screenshots/](https://www.upload.ee/image/19807416/2026-10-02_025044.png)
-```
+<img src="https://www.upload.ee/image/19807418/2026-10-02_025044.png" border="0" alt="2026-10-02_025044.png" />
 
 ## License
 
