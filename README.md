@@ -82,7 +82,7 @@ The application uses SQLite for local data storage. Database files and backups s
 Add screenshots here:
 
 ```
-docs/screenshots/
+[docs/screenshots/](https://www.upload.ee/image/19807416/2026-10-02_025044.png)
 ```
 
 ## License
